@@ -42,6 +42,8 @@ public class Main {
 		System.out.println("Java and JavaScriptを大文字に変換："+s4.toUpperCase());
 		System.out.println(s5+"の先頭と末尾の空文字をなくす："+s5.trim());
 		System.out.println("JavaをPHPに変換："+s4.replace("Java", "PHP"));
+
+
 	}
 
 }
